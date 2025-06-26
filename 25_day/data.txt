@@ -1,0 +1,2 @@
+1-talaba: Ism: Javohir, Familyasi: Sadullayev, Yosh: 15, GPA: 2.45
+2-talaba: Ism: Husan, Familyasi: Rahmonov, Yosh: 24, GPA: 0.60
